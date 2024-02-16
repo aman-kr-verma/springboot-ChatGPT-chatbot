@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1791bb37-39a3-4a9a-9d1d-0529e71a294e" name="Changes" comment="prop-abs">
-      <change beforePath="$PROJECT_DIR$/ChatGPT/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/src/main/java/com/gpt/ChatGptApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/src/main/java/com/gpt/config/TemplateConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/src/main/java/com/gpt/controller/GPTController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/src/main/java/com/gpt/dto/ChatGPTRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/src/main/java/com/gpt/dto/ChatGPTResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/src/main/java/com/gpt/dto/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT/src/test/java/com/gpt/ChatGptApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +53,11 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="ChatGptApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ChatGptApplication">
+    <configuration name="ChatGptApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <envs>
+        <env name="OPENAI_API_KEY" value="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" />
+      </envs>
       <option name="MAIN_CLASS_NAME" value="com.gpt.ChatGptApplication" />
       <module name="ChatGPT" />
       <extension name="coverage">
@@ -75,11 +70,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ChatGptApplication" />
-      </list>
-    </recent_temporary>
+    <configuration name="All in ChatGPT" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ChatGPT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <envs>
+        <env name="OPENAI_API_KEY" value="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" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChatGptApplication" />
+      <item itemvalue="JUnit.All in ChatGPT" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
