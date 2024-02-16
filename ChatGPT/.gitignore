@@ -1,5 +1,7 @@
 HELP.md
-ChatGPT/src/main/resources/application.properties
+
+src/
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
