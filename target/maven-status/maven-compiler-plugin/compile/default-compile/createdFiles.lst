@@ -1,0 +1,7 @@
+com\gpt\ChatGptApplication.class
+com\gpt\controller\GPTController.class
+com\gpt\config\TemplateConfig.class
+com\gpt\dto\ChatGPTResponse.class
+com\gpt\dto\ChatGPTResponse$Choice.class
+com\gpt\dto\ChatGPTRequest.class
+com\gpt\dto\Message.class
