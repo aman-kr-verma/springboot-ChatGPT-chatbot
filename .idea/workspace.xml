@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1791bb37-39a3-4a9a-9d1d-0529e71a294e" name="Changes" comment="v0.2-dockerfile-added">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="1791bb37-39a3-4a9a-9d1d-0529e71a294e" name="Changes" comment="v0.2-dockerfile-updated">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gpt/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gpt/controller/GPTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gpt/controller/GPTController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gpt/controller/GPTController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gpt/controller/GPTController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
   <component name="RunManager">
     <configuration name="ChatGptApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <envs>
-        <env name="OPENAI_API_KEY" value="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" />
+        <env name="OPENAI_API_KEY" value="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" />
       </envs>
       <option name="MAIN_CLASS_NAME" value="com.gpt.ChatGptApplication" />
       <module name="ChatGPT" />
@@ -221,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708334556195</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="v0.2-dockerfile-updated">
+      <option name="closed" value="true" />
+      <created>1708335331592</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1708335331592</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -284,6 +296,7 @@
     <MESSAGE value="prop-abs" />
     <MESSAGE value="v0.2" />
     <MESSAGE value="v0.2-dockerfile-added" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.2-dockerfile-added" />
+    <MESSAGE value="v0.2-dockerfile-updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.2-dockerfile-updated" />
   </component>
 </project>
