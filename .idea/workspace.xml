@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1791bb37-39a3-4a9a-9d1d-0529e71a294e" name="Changes" comment="v0.2-dockerfile-updated">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gpt/config/CorsConfig.java" afterDir="false" />
+    <list default="true" id="1791bb37-39a3-4a9a-9d1d-0529e71a294e" name="Changes" comment="v0.3">
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gpt/controller/GPTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gpt/controller/GPTController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gpt/controller/GPTController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gpt/controller/GPTController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708335331592</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="v0.3">
+      <option name="closed" value="true" />
+      <created>1709621006831</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709621006831</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -297,6 +304,7 @@
     <MESSAGE value="v0.2" />
     <MESSAGE value="v0.2-dockerfile-added" />
     <MESSAGE value="v0.2-dockerfile-updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.2-dockerfile-updated" />
+    <MESSAGE value="v0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.3" />
   </component>
 </project>

@@ -1,6 +1,7 @@
-D:\New folder (2)\ChatGPT\src\main\java\com\gpt\dto\Message.java
-D:\New folder (2)\ChatGPT\src\main\java\com\gpt\dto\ChatGPTRequest.java
-D:\New folder (2)\ChatGPT\src\main\java\com\gpt\ChatGptApplication.java
-D:\New folder (2)\ChatGPT\src\main\java\com\gpt\controller\GPTController.java
-D:\New folder (2)\ChatGPT\src\main\java\com\gpt\config\TemplateConfig.java
-D:\New folder (2)\ChatGPT\src\main\java\com\gpt\dto\ChatGPTResponse.java
+D:\GPT\ChatGPT\src\main\java\com\gpt\dto\ChatGPTResponse.java
+D:\GPT\ChatGPT\src\main\java\com\gpt\controller\GPTController.java
+D:\GPT\ChatGPT\src\main\java\com\gpt\dto\ChatGPTRequest.java
+D:\GPT\ChatGPT\src\main\java\com\gpt\ChatGptApplication.java
+D:\GPT\ChatGPT\src\main\java\com\gpt\config\TemplateConfig.java
+D:\GPT\ChatGPT\src\main\java\com\gpt\config\CorsConfig.java
+D:\GPT\ChatGPT\src\main\java\com\gpt\dto\Message.java
